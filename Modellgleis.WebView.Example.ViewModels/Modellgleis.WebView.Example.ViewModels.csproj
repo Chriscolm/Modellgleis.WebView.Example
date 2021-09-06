@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Modellgleis.WebView.Example.Infrastructure\Modellgleis.WebView.Example.Infrastructure.csproj" />
+    <ProjectReference Include="..\Modellgleis.WebView.Example.ViewModels.Contracts\Modellgleis.WebView.Example.ViewModels.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
